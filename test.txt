@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 8890-5819
+
+ Directory of C:\Users\gnra7001\Desktop\ramya\test
+
+07/04/2018  11:00 PM    <DIR>          .
+07/04/2018  11:00 PM    <DIR>          ..
+07/04/2018  11:00 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  23,268,671,488 bytes free
